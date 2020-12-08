@@ -1,0 +1,27 @@
+.heading{
+    font-size:25px;
+    width: 100%;
+padding:5px;
+box-shadow: 5px 10px 15px lawngreen;
+}
+.note{
+    white-space:normal;
+}
+#sq-length{
+    color:red;
+    font-style:italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    font-size:30px;
+    color: sienna;
+    background-color: silver;
+    text-align: center;
+}
+canvas{
+    border: 10px solid darkgoldenrod;
+    border-radius:20px;
+}
